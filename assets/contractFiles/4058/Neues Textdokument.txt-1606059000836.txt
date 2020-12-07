@@ -1,0 +1,22 @@
+kundigen:
+geburtsdatum und handynnummer weg
+adresse von anbieter hinzufugen aus dem databank und editbar lassen
+datum , stadt von user
+beim unterschrift hacken korb und x
+fehlt vertragsnummer im pdf und aud die Seite
+gekundigte vertrage die zweite Icon besser gesetzt
+nach dem kundigung laufende vertrage weg (refresh)
+
+
+laufende vertrage keine zweite icon uberal zweite icon weg
+
+datum richtige format
+
+laufende gekundigte vertrage immer noch beim laufende vertrage 
+beim gekundigte vertrage nur die welche sind schon abgelaufen 
+
+vertrag wurde hinzugefugt beim vertrags add
+
+die summe von gesamt kosten mit zwei ziffern nach dem comma
+
+popup mit unterschrift 

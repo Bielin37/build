@@ -1,0 +1,16 @@
+ssh -i webapp-key webapp@35.156.122.104
+
+sudo reboot
+cd /var/www/app
+sudo rm -R 'filename'
+sudo service nginx restart
+:1,$d - delete all lines in vim editor
+sudo vi 'filename'
+wq - exit and save file in vim editor
+
+PM2:
+sudo pm2 delete all
+sudo pm2 logs --json
+
+START PROJECT:
+sudo npm run start
